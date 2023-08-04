@@ -3,6 +3,8 @@
 [![Build Status](https://github.com/serenysoft/rxdb-replication-orion/actions/workflows/ci.yml/badge.svg)](https://github.com/serenysoft/rxdb-replication-orion/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/serenysoft/rxdb-replication-orion/branch/master/graph/badge.svg?token=GANBHB4ZHS)](https://codecov.io/gh/serenysoft/rxdb-replication-orion)
 
+> ⚠️ The repository was relocated to https://github.com/serenysoft/rxdb-orion
+
 The Orion replication provides handlers for run replication with Orion REST API as the transportation layer.
 
 ## Usage
